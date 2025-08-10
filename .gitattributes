@@ -1,0 +1,3 @@
+# Ignore generated reports in language stats
+test-output/* linguist-vendored
+target/* linguist-vendored
